@@ -1,0 +1,26 @@
+table, th, td{
+  border: 1px solid white;
+  
+}
+
+td{
+  padding: 7px;
+}
+body{
+  background-image: url(https://guitar.com/wp-content/uploads/2019/08/jeff-buckley-1991-new-york-credit-jack-vartoogian-getty-159347564@1400x1050.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+h1{
+  color: gray;
+}
+
+b, h2, th, td{
+  color:white;
+}
+
+img{
+  width: 100px;
+}
